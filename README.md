@@ -4,7 +4,7 @@ This repository contains my professional resume.
 
 ## 📄 File
 
-- [resume.pdf](./resume.pdf)
+- [resume.pdf](./Sagar_s_Resume (4).pdf)
 
 ## 💡 Note
 
